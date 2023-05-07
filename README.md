@@ -6,12 +6,9 @@ A Python-based AWS Lambda function that deletes old indices in OpenSearch based 
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Configuration](#configuration)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 

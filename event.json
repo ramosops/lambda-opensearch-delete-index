@@ -1,0 +1,6 @@
+{
+    "es_endpoint": "OPENSEARCH_ENDPOINT_HERE",
+    "delete_after": 2,
+    "index": "INDEX_NAME", "_comment": "the default name without the date",
+    "es_max_retry": 10
+  }
